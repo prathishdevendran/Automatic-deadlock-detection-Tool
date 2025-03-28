@@ -1,6 +1,9 @@
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
+from module3 import DeadlockGUI
+
+
 if __name__ == "__main__":
     root = tk.Tk()
     root.configure(bg="lightblue")
